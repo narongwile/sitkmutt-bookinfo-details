@@ -1,4 +1,3 @@
-# sitkmutt-bookinfo-details
 # How to run details service
 
 ## Prerequisite
